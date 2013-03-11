@@ -1,0 +1,5 @@
+C:\temp\EFWebApp3.5VS2008\EFWebApp3.5VS2008\bin\EFWebApp3.5VS2008to2010.dll
+C:\temp\EFWebApp3.5VS2008\EFWebApp3.5VS2008\bin\EFWebApp3.5VS2008to2010.pdb
+C:\temp\EFWebApp3.5VS2008\EFWebApp3.5VS2008\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\EFWebApp3.5VS2008\EFWebApp3.5VS2008\obj\Debug\EFWebApp3.5VS2008to2010.dll
+C:\temp\EFWebApp3.5VS2008\EFWebApp3.5VS2008\obj\Debug\EFWebApp3.5VS2008to2010.pdb

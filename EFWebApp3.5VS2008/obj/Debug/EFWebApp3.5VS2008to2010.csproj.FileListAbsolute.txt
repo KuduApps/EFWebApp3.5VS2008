@@ -1,0 +1,5 @@
+C:\Users\fashaikh\Documents\Visual Studio 2008\Projects\EFWebApp3.5VS2008to2010\EFWebApp3.5VS2008to2010\bin\EFWebApp3.5VS2008to2010.dll
+C:\Users\fashaikh\Documents\Visual Studio 2008\Projects\EFWebApp3.5VS2008to2010\EFWebApp3.5VS2008to2010\bin\EFWebApp3.5VS2008to2010.pdb
+C:\Users\fashaikh\Documents\Visual Studio 2008\Projects\EFWebApp3.5VS2008to2010\EFWebApp3.5VS2008to2010\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fashaikh\Documents\Visual Studio 2008\Projects\EFWebApp3.5VS2008to2010\EFWebApp3.5VS2008to2010\obj\Debug\EFWebApp3.5VS2008to2010.dll
+C:\Users\fashaikh\Documents\Visual Studio 2008\Projects\EFWebApp3.5VS2008to2010\EFWebApp3.5VS2008to2010\obj\Debug\EFWebApp3.5VS2008to2010.pdb
